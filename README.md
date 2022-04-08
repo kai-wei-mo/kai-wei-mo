@@ -8,8 +8,8 @@
 ### 🧑‍💻 &nbsp;About Me
 
 -   🎓 &nbsp;I'm currently studying <a href="https://uwaterloo.ca/future-students/programs/software-engineering">Software Engineering at the University of Waterloo</a>
--   🌱 &nbsp;I’m currently learning **Microservices with Kubernetes**
--   🤔 &nbsp;I’m currently looking into **Backend Development**
+-   🌱 &nbsp;I’m currently learning **Deploying and Managing Cloud Environments with Google Cloud**
+-   🤔 &nbsp;I’m currently looking into **SRE, DevOps, and Infrastructure**
 -   📫 &nbsp;Reach out to me at [kai.wei.mo@uwaterloo.ca](mailto:kai.wei.mo@uwaterloo.ca) for collabs!
     <!-- - 📄 &nbsp;Check out my [Resume](https://drive.google.com/file/d/xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx/) -->
     <!-- - 🎹 &nbsp;Learn more about me at xxxxxxxxx.com -->
