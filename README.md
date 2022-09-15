@@ -7,12 +7,14 @@
 
 ### 🧑‍💻 &nbsp;About Me
 
--   🎓 &nbsp;I'm currently studying <a href="https://uwaterloo.ca/future-students/programs/software-engineering">Software Engineering at the University of Waterloo</a>
--   🌱 &nbsp;I’m currently learning **Deploying and Managing Cloud Environments with Google Cloud**
--   🤔 &nbsp;I’m currently looking into **SRE, DevOps, and Infrastructure**
--   📫 &nbsp;Reach out to me at [kai.wei.mo@uwaterloo.ca](mailto:kai.wei.mo@uwaterloo.ca) for collabs!
-    <!-- - 📄 &nbsp;Check out my [Resume](https://drive.google.com/file/d/xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx/) -->
-    <!-- - 🎹 &nbsp;Learn more about me at xxxxxxxxx.com -->
+-   🎓 &nbsp;Studying <a href="https://uwaterloo.ca/future-students/programs/software-engineering">Software Engineering at the University of Waterloo</a>
+-   🔍 &nbsp;Seeking Summer 2023 internships
+-   🌱 &nbsp;Learning about **Deploying and Managing Cloud Environments with Google Cloud**
+-   🤔 &nbsp;Looking into **SRE/DevOps, Infra, and Backend**
+-   📫 &nbsp;Reach out to me at [kw2mo@uwaterloo.ca](mailto:kw2mo@uwaterloo.ca) for collabs!
+- 🎹 &nbsp;Learn more about me at [kaiweimo.com](https://kaiweimo.com/)!
+
+<!-- - 📄 &nbsp;Check out my [Resume](https://drive.google.com/file/d/xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx/) -->
 
 ### 🛠 &nbsp;Language and Tools
 
@@ -21,11 +23,10 @@
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=kubernetes)
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
 ![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazonaws&logoColor=F79400)
-![GCP](https://img.shields.io/badge/-GCP-05122A?style=flat&logo=googlecloud)
 ![Terraform](https://img.shields.io/badge/-Terraform-05122A?style=flat&logo=terraform&logoColor=594CDE)
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java&logoColor=FFA518)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=cplusplus&logoColor=6295CB)&nbsp;
