@@ -8,7 +8,7 @@
 ### 🧑‍💻 &nbsp;About Me
 
 -   🎓 &nbsp;Studying <a href="https://uwaterloo.ca/future-students/programs/software-engineering">Software Engineering at the University of Waterloo</a>
--   🔍 &nbsp;Seeking Summer 2023 internships
+-   🔍 &nbsp;Seeking Winter 2024 internships
 -   🌱 &nbsp;Learning about **Deploying and Managing Cloud Environments with Google Cloud**
 -   🤔 &nbsp;Looking into **SRE/DevOps, Infra, and Backend**
 -   📫 &nbsp;Reach out to me at [kw2mo@uwaterloo.ca](mailto:kw2mo@uwaterloo.ca) for collabs!
