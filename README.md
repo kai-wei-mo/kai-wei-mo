@@ -9,8 +9,8 @@
 
 -   🎓 &nbsp;Studying <a href="https://uwaterloo.ca/future-students/programs/computer-science">Computer Science at the University of Waterloo</a>
 -   🔍 &nbsp;Seeking Winter 2024 internships
--   🌱 &nbsp;Learning about **Deploying and Managing Cloud Environments with Google Cloud**
--   🤔 &nbsp;Looking into **SRE/DevOps, Infra, and Backend**
+-   🌱 &nbsp;Learning about **Kubernetes for cloud-native technologies and enhancing DevOps practices**
+-   🤔 &nbsp;Looking into **SRE/Infra, DevOps, and Backend**
 -   📫 &nbsp;Reach out to me at [kw2mo@uwaterloo.ca](mailto:kw2mo@uwaterloo.ca) for collabs!
 -   🎹 &nbsp;Learn more about me at [kaiweimo.com](https://kaiweimo.com/)!
 
