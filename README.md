@@ -16,7 +16,7 @@
 
 <!-- https://github.com/simple-icons/simple-icons/blob/develop/slugs.md -->
 
-#### Infra, Platform, SRE
+<!-- ##### Infra, Platform, SRE -->
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=kubernetes)
 ![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazonaws&logoColor=F79400)
 ![GCP](https://img.shields.io/badge/-GCP-05122A?style=flat&logo=googlecloud)
@@ -24,7 +24,7 @@
 ![Helm](https://img.shields.io/badge/-Helm-05122A?style=flat&logo=helm&logoColor=0F1689)
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
 
-#### DevOps, CI/CD, Monitoring
+<!-- ##### DevOps, CI/CD, Monitoring -->
 ![ArgoCD](https://img.shields.io/badge/-ArgoCD-05122A?style=flat&logo=argo)
 ![Splunk](https://img.shields.io/badge/-Splunk-05122A?style=flat&logo=splunk)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-05122A?style=flat&logo=jenkins&logoColor=D24939)
@@ -33,7 +33,7 @@
 ![Grafana](https://img.shields.io/badge/-Grafana-05122A?style=flat&logo=grafana)
 ![Prometheus](https://img.shields.io/badge/-Prometheus-05122A?style=flat&logo=prometheus)
 
-#### Scripting Languages
+<!-- ##### Scripting Languages -->
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=cplusplus&logoColor=6295CB)
 ![Bash](https://img.shields.io/badge/-Bash-05122A?style=flat&logo=gnubash)
@@ -43,11 +43,11 @@
 ![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=kotlin)
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C)
 
-#### Backend
+<!-- ##### Backend -->
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)
 ![DynamoDB](https://img.shields.io/badge/-DynamoDB-05122A?style=flat&logo=amazondynamodb&logoColor=4053D6)
 
-#### Frontend
+<!-- ##### Frontend -->
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
 ![Vite](https://img.shields.io/badge/-Vite-05122A?style=flat&logo=vite)
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=nodedotjs)
