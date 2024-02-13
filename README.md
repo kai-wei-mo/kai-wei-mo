@@ -1,4 +1,4 @@
-# Hi there, I'm Kai! 👋
+# Hi there, I'm Kai Wei Mo! 👋
 
 [![LinkedIn](https://img.shields.io/badge/kai--wei--mo-2867B2?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kai-wei-mo/)](https://www.linkedin.com/in/kai-wei-mo/)
 ![](https://visitor-badge.glitch.me/badge?page_id=kai-wei-mo.kai-wei-mo)
@@ -7,36 +7,54 @@
 
 ### 🧑‍💻 &nbsp;About Me
 
--   🎓 &nbsp;Studying <a href="https://uwaterloo.ca/future-students/programs/computer-science">Computer Science at the University of Waterloo</a>
--   🔍 &nbsp;Seeking Winter 2024 internships
--   🌱 &nbsp;Learning about **Kubernetes for cloud-native technologies and enhancing DevOps practices**
--   🤔 &nbsp;Looking into **SRE/Infra, DevOps, and Backend**
--   📫 &nbsp;Reach out to me at [kw2mo@uwaterloo.ca](mailto:kw2mo@uwaterloo.ca) for collabs!
--   🎹 &nbsp;Learn more about me at [kaiweimo.com](https://kaiweimo.com/)!
-
-<!-- - 📄 &nbsp;Check out my [Resume](https://drive.google.com/file/d/xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx/) -->
+-   🎓 &nbsp;Bachelors of **Computer Science** at the **University of Waterloo** (2025)
+-   🔍 &nbsp;Seeking **2025 New Grad** opportunities
+-   🥸 &nbsp;Learn more about me at [kaiweimo.com](https://kaiweimo.com/)!
+-   📝 &nbsp;Check out my [resumé](https://kaiweimo.com/media/Kai_Wei_Mo_Resume.pdf)!
 
 ### 🛠 &nbsp;Language and Tools
 
 <!-- https://github.com/simple-icons/simple-icons/blob/develop/slugs.md -->
 
+#### Infra, Platform, SRE
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=kubernetes)
-![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
 ![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazonaws&logoColor=F79400)
-![Terraform](https://img.shields.io/badge/-Terraform-05122A?style=flat&logo=terraform&logoColor=594CDE)
+![GCP](https://img.shields.io/badge/-GCP-05122A?style=flat&logo=googlecloud)
+![Terraform](https://img.shields.io/badge/-Terraform-05122A?style=flat&logo=terraform)
+![Helm](https://img.shields.io/badge/-Helm-05122A?style=flat&logo=helm&logoColor=0F1689)
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java&logoColor=FFA518)&nbsp;
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=cplusplus&logoColor=6295CB)&nbsp;
-![C++](https://img.shields.io/badge/-Bash-05122A?style=flat&logo=gnubash)&nbsp;
+#### DevOps, CI/CD, Monitoring
+![ArgoCD](https://img.shields.io/badge/-ArgoCD-05122A?style=flat&logo=argo)
+![Splunk](https://img.shields.io/badge/-Splunk-05122A?style=flat&logo=splunk)
+![Jenkins](https://img.shields.io/badge/-Jenkins-05122A?style=flat&logo=jenkins&logoColor=D24939)
+![GitHub Actions](https://img.shields.io/badge/-GitHub&nbsp;Actions-05122A?style=flat&logo=githubactions&logoColor=2088FF)
+![Buildkite](https://img.shields.io/badge/-Buildkite-05122A?style=flat&logo=buildkite)
+![Grafana](https://img.shields.io/badge/-Grafana-05122A?style=flat&logo=grafana)
+![Prometheus](https://img.shields.io/badge/-Prometheus-05122A?style=flat&logo=prometheus)
 
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=nodedotjs)&nbsp;
-![Express](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+#### Scripting Languages
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=cplusplus&logoColor=6295CB)
+![Bash](https://img.shields.io/badge/-Bash-05122A?style=flat&logo=gnubash)
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java&logoColor=FFA518)
+![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=kotlin)
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C)
+
+#### Backend
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)
+![DynamoDB](https://img.shields.io/badge/-DynamoDB-05122A?style=flat&logo=amazondynamodb&logoColor=4053D6)
+
+#### Frontend
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
+![Vite](https://img.shields.io/badge/-Vite-05122A?style=flat&logo=vite)
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=nodedotjs)
+![Express](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express)
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)
+
 <!-- 
 ### 📈 My GitHub Stats:
 
