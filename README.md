@@ -48,12 +48,12 @@
 ![DynamoDB](https://img.shields.io/badge/-DynamoDB-05122A?style=flat&logo=amazondynamodb&logoColor=4053D6)
 
 <!-- ##### Frontend -->
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
-![Vite](https://img.shields.io/badge/-Vite-05122A?style=flat&logo=vite)
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=nodedotjs)
-![Express](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express)
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)
+<!-- ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react) -->
+<!-- ![Vite](https://img.shields.io/badge/-Vite-05122A?style=flat&logo=vite) -->
+<!-- ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=nodedotjs) -->
+<!-- ![Express](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express) -->
+<!-- ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5) -->
+<!-- ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6) -->
 
 <!-- 
 ### 📈 My GitHub Stats:
